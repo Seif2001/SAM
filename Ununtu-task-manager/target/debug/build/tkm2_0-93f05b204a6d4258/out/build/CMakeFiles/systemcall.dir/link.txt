@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystemcall.a CMakeFiles/systemcall.dir/systemcall.c.o
+/usr/bin/ranlib libsystemcall.a

@@ -1,0 +1,7 @@
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/install/strip.dir
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/install/local.dir
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/install.dir
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/list_install_components.dir
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/rebuild_cache.dir
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/edit_cache.dir
+/home/omar/SAM/Ununtu-task-manager/target/debug/build/tkm2_0-33fc2a6a3e7cec9b/out/build/CMakeFiles/systemcall.dir

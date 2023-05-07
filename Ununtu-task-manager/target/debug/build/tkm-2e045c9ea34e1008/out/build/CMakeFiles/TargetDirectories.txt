@@ -1,0 +1,7 @@
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/systemcall.dir
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/edit_cache.dir
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/rebuild_cache.dir
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/list_install_components.dir
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/install.dir
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/install/local.dir
+/home/seif/Ununtu-task-manager/target/debug/build/tkm-2e045c9ea34e1008/out/build/CMakeFiles/install/strip.dir

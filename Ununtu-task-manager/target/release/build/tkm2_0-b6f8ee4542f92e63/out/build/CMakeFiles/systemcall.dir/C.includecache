@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/omar/SAM/Ununtu-task-manager/systemcall/systemcall.c
+sys/time.h
+-
+sys/resource.h
+-
+stdio.h
+-
+
